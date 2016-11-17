@@ -12,3 +12,5 @@ Android 双进程守护,应用保活
 Android进程保活招式大全
 http://weibo.com/ttarticle/p/show?id=2309404007713234363386
  
+
+by 动脑学院
